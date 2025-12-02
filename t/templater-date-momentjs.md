@@ -1,0 +1,1 @@
+[templater-date-module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/date-module.html)

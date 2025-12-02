@@ -1,0 +1,33 @@
+.theme-dark {
+  filter: invert(0) hue-rotate(0deg) saturate(1);
+}
+
+.theme-dark .mermaid > svg {
+    filter: invert(0%) hue-rotate(0deg) saturate(1);
+}
+
+/* 
+That code snippet will be useful to disable dark mode filter. Colors will be 
+untouched by hue-rotate degree and saturate.
+
+Code snippet (1)
+I learn more and more every day! Thanks :smile:
+
+.theme-dark .mermaid > svg {
+    filter: none;
+}
+
+Code snippet (2)
+Thanks! Your two posts were very helpful, and I was able to add the following 
+to a CSS snippet to get back to my original style.
+
+.theme-dark .mermaid > svg {
+    filter: invert(0%) hue-rotate(0deg) saturate(1);
+}
+
+Reference
+Mermaid.js diagram colors are now broken since update 1.8.3
+https://forum.obsidian.md/t/mermaid-js-diagram-colors-are-now-broken-since-update-1-8-3/95690/6
+Obsidian forum
+2025-03-23
+*/

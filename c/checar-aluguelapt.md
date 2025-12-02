@@ -1,0 +1,1 @@
+14/10/25 R$975,80 Pix 15h06 Nara Rubia Queiroz Machado

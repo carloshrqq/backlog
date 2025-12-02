@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "cd0e433faf4685fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b924d575364cb274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7766ea8527270c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailynote/2025-12-2nd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-2nd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f32e475ccb6551c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "690fb409afaf790e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd21a47c7cd6d30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#\u0000",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0fa8f24225e25d96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "05f75cc7266554db",
+    "type": "split",
+    "children": [
+      {
+        "id": "575455e527557e74",
+        "type": "tabs",
+        "dimension": 49.61904761904762,
+        "children": [
+          {
+            "id": "2de0f9cbe5f345f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dailynote/2025-12-2nd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-12-2nd"
+            }
+          },
+          {
+            "id": "501acc802f0c6c8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73d288ab97c8796c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "a/anotacao-exemplos.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for anotacao-exemplos"
+            }
+          },
+          {
+            "id": "1336e84cf399e948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dailynote/07-09-2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 07-09-2025"
+            }
+          },
+          {
+            "id": "af857f39cc77694e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dailynote/07-09-2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 07-09-2025"
+            }
+          },
+          {
+            "id": "6331842e809560b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e5f6f12179fc463",
+        "type": "tabs",
+        "dimension": 50.38095238095238,
+        "children": [
+          {
+            "id": "06071423286f404a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7766ea8527270c4c",
+  "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20250916235840.png",
+    "Pasted image 20250916235805.png",
+    "Pasted image 20250916235620.png",
+    "Pasted image 20250916235210.png",
+    "Pasted image 20250916202955.png",
+    "Pasted image 20250821044057.png",
+    "Pasted image 20250821044044.png",
+    "Pasted image 20250821044029.png",
+    "Pasted image 20250821044003.png",
+    "Pasted image 20250821043946.png",
+    "z",
+    "y/yt-dlp.md",
+    "y",
+    "x/x33log.md",
+    "x/x33log-multiplier.md",
+    "x/x33log-star.md",
+    "x/x33log-hidden.md",
+    "x",
+    "w/whatsapp-profile.md",
+    "w/windefender.md",
+    "w/weeklynotemodel-template.md",
+    "w",
+    "v/vscode-shortcuts.md",
+    "v/vscode-settingsjson.md",
+    "v/vscode-plugins.md",
+    "v/versao-emocional.md",
+    "v",
+    "u",
+    "templates/template-dailynote.md",
+    "templates/template-content.md",
+    "templates/template-common.md",
+    "templates",
+    "t/templater-date-momentjs.md",
+    "t/tags.md",
+    "t",
+    "s/syncthing.md",
+    "s/svg-tutorial.md",
+    "s/symbols.md",
+    "s/statusbar-obsidian.md",
+    "s/js-obsidian.md",
+    "s",
+    "revealjs/revealjs.md",
+    "revealjs",
+    "r/roadmap-zod.md",
+    "r/roadmap-vercel.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "T/template/template-newport/template-newport-v2.canvas",
+    "N/NewportTemplate.canvas"
+  ]
+}

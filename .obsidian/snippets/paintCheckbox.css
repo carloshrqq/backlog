@@ -1,0 +1,52 @@
+/* none striketrhough textline for done tasks */
+
+.markdown-preview-view ul > li.task-list-item.is-checked {
+  text-decoration:none;
+  color:var(--text-none);
+  font-weight: var(--bold-weight);
+}
+
+.markdown-preview-view ol > li.task-list-item.is-checked {
+  text-decoration:none;
+  color:var(--text-none);
+  font-weight: var(--bold-weight);
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "]) {
+    text-decoration:none;
+    color: var(--text-none);
+    font-weight: var(--bold-weight);
+}
+
+/*
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-wrap
+https://forum.obsidian.md/t/how-to-remove-strikethrough-for-checkboxes/5753/16
+https://forum.obsidian.md/t/how-to-remove-strikethrough-for-checkboxes/5753/16
+extra: Change checkbox color
+https://stackoverflow.com/questions/65454390/how-to-change-the-checked-colour-of-the-checkbox
+*/
+/********************/
+/*
+One of the simplest and most common ways to style a checkbox is to use input[type=checkbox] or pseudo selectors to set the style with CSS properties based on a specific state.
+
+In the example below, we styled the outline of every checkbox, regardless of its state, to a white color with a width of 1px. 
+*/
+input[type="checkbox"] {
+    outline: 2px solid #b7dbda;
+}
+
+/* We can also use the :hover pseudo-class, although not specific to the checkbox element, to set custom styles for the checkbox when it is hovered upon: */
+input[type="checkbox"]:hover {
+    outline: 2px solid #a68af9;
+}
+
+
+/*Change checked checkbox outline color to blue*/
+input[type="checkbox"]:checked {
+    outline: 2px solid #a68af9;
+}
+
+/*
+https://blog.logrocket.com/styling-checkboxes-css-properties/
+*/
+

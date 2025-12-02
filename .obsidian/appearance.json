@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "css-snippets",
+    "checklist-decoration-none",
+    "checklist",
+    "hideProperties",
+    "colorCheckbox",
+    "disableThemeFilter",
+    "paintCheckbox",
+    "backgroundColor"
+  ],
+  "showRibbon": false,
+  "cssTheme": "",
+  "baseFontSize": 22,
+  "interfaceFontFamily": "JetBrains Mono NL,Lucida Console",
+  "baseFontSizeAction": false,
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono NL,Algerian"
+}
