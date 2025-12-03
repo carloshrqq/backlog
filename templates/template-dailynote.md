@@ -1,8 +1,8 @@
 [agenda25](/a/agenda25.md)
 # Foco do dia
 
-# moment.locale('pt-br').format("[Hoje é ] dddd");
-## Objetivo principal
+# <% moment().locale('pt-br').format("dddd, MMMM Do YYYY, hh:mm:ss") %>
+## Objetivo principal=
 
 - descrever um item
 ## Ações

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2025-12-3rd.md",
+                "file": "templates/template-dailynote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-3rd"
+              "title": "template-dailynote"
             }
           }
         ]
@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2025-12-3rd.md",
+                "file": "templates/template-dailynote.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-3rd"
+              "title": "Outline of template-dailynote"
             }
           },
           {
@@ -209,6 +209,9 @@
   "active": "7766ea8527270c4c",
   "lastOpenFiles": [
     "dailynote/2025-12-3rd.md",
+    "templates/template-dailynote.md",
+    "s/js-obsidian.md",
+    "s/statusbar-obsidian.md",
     "javascript/javascript-momentjs.md",
     "a/tsete3.md",
     "a/abnt.md",
@@ -243,15 +246,12 @@
     "v/versao-emocional.md",
     "v",
     "u",
-    "templates/template-dailynote.md",
     "templates/template-content.md",
     "templates/template-common.md",
     "templates",
     "t/templater-date-momentjs.md",
     "t/tags.md",
     "t",
-    "s/syncthing.md",
-    "s/svg-tutorial.md",
     "s",
     "revealjs",
     "Untitled 1.canvas",
