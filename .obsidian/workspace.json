@@ -83,13 +83,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-dailynote.md",
+                "file": "dailynote/2025-12-3rd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of template-dailynote"
+              "title": "Outline of 2025-12-3rd"
             }
           },
           {
