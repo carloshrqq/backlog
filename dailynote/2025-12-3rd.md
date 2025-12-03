@@ -1,6 +1,7 @@
 [agenda25](/a/agenda25.md)
 # Foco do dia
 
+# moment.locale('pt-br').format("[Hoje é ] dddd");
 ## Objetivo principal
 
 - descrever um item
